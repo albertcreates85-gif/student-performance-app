@@ -3,12 +3,6 @@
 A Machine Learning project that predicts whether a student is likely to **pass or struggle** based on study habits and personal factors.
 
 ---
-
-## 🚀 Live Demo
-👉 (Add your Streamlit link here after deployment)
-
----
-
 ## 📌 Problem Statement
 
 Many students struggle academically, and identifying them early can help provide timely support.
@@ -87,11 +81,3 @@ This project builds a Machine Learning model to:
 - Streamlit
 
 ---
-
-## 🖥️ How to Run Locally
-
-```bash
-git clone https://github.com/your-username/student-performance-app.git
-cd student-performance-app/app
-pip install -r requirements.txt
-streamlit run app.py
